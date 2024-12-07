@@ -19,7 +19,7 @@ airs
 │   │   ├── train (processed)
 │   │   ├── val (processed)
 │   │   ├── train_val (processed)
-train：test：val=7:2:1   
+
 │   ├── LoveDA
 │   │   ├── Train
 │   │   │   ├── Urban
